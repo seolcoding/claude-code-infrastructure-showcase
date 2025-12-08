@@ -6,7 +6,7 @@
 
 > 역자주: 이 레포지토리는 원 저자가 Reddit에 포스팅한 글 ["Claude Code는 괴물이다 – 6개월 하드코어 사용에서 얻은 팁들"](https://rosettalens.com/s/ko/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use)을 읽은 사람들로부터 수백 건의 요청 후, 커뮤니티가 이 패턴들을 구현할 수 있도록 이 showcase가 만들어졌습니다. 아직 해당 포스트를 읽지 않으셨다면, 먼저 포스트를 읽고 오시는 것을 권합니다.
 
-> **이것은 동작하는 애플리케이션이 아닙니다** - 레퍼런스 라이브러리입니다. 필요한 부분을 자신의 프로젝트에 복사해서 사용하세요.
+> **이것은 동작하는 애플리케이션이 아닙니다** - 레퍼런스 라이브러리의 한국어 번역본 입니다. 성능과 토큰 절약을 위해서 [원본 리포지토리](https://github.com/diet103/claude-code-infrastructure-showcase)에서 필요한 부분을 자신의 프로젝트에 복사한 후에 [.claude/skills/skill-rules.json](.claude/skills/skill-rules.json)의 키워드들에 한국어를 추가해서 사용하세요.
 
 ---
 
